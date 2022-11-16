@@ -3,16 +3,16 @@
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
-| CPU | AMD Ryzen 7 5800X @ 3.8GHz |
+| CPU | AMD Ryzen 7 5800X3D @ 3.6GHz |
 | Motherboard | ASUS ROG STRIX B550-A GAMING |
-| RAM | 16GB (2 x 8GB) T-Force Delta White DDR4-3200 |
-| GPU | MSI Mech X2 RX 6600 XT 8G |
+| RAM | 16GB (2 x 8GB) G.SKILL Trident Z Neo DDR4-3600 CL16 |
+| GPU | TUF GAMING Radeon™ RX 6800 OC Edition |
 | Ethernet | Intel® I225-V 2.5Gb |
-| OS Disk (SATA) | ADATA SX8200Pro 512GB |
+| OS Disk (NVME) | WD_BLACK SN750 NVMe™ SSD 1TB |
 
-**macOS version**: 13.0
+**macOS version**: 13.0.1
 
-**OpenCore version**: 0.8.5
+**OpenCore version**: 0.8.6
 
 **SMBIOS**:  MacPro7,1
 
