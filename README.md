@@ -8,7 +8,7 @@
 | RAM | 16GB (2 x 8GB) G.SKILL Trident Z Neo DDR4-3600 CL16 |
 | GPU | TUF GAMING Radeon™ RX 6800 OC Edition |
 | Ethernet | Intel® I225-V 2.5Gb |
-| OS Disk (NVME) | WD_BLACK SN750 NVMe™ SSD 1TB |
+| OS Disk (NVME) | WD_BLACK SN850 NVMe™ SSD 1TB |
 
 **macOS version**: 13.0.1
 
@@ -25,6 +25,13 @@
 
 ## Known Issues
  - Sleep - Wakes from sleep instantly (Maybe cause of USB Mapping?)
+
+## BIOS Settings
+ - You can use the default settings or whatever suits you but the important part is below since we enabled ReBAR in OpenCore config.
+   Advanced
+   -> PCI Subsystem Settings
+      -> Above 4G Decoding  - Enabled
+      -> Resize BAR Support - Auto
 
 ## How to use
   1. Create directory "EFI" in your EFI partition (e.g. pendrive or hard drive)
