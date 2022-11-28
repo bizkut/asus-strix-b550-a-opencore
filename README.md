@@ -1,12 +1,14 @@
 # AMD Ryzen Hackintosh - Opencore EFI for ASUS ROG STRIX B550-A GAMING
 
+## Actually Gaming Edition
+
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
 | CPU | AMD Ryzen 7 5800X3D @ 3.6GHz |
 | Motherboard | ASUS ROG STRIX B550-A GAMING |
 | RAM | 16GB (2 x 8GB) G.SKILL Trident Z Neo DDR4-3600 CL16 |
-| GPU | TUF GAMING Radeon™ RX 6800 OC Edition |
+| GPU | Red Devil AMD Radeon™ RX 6800 XT 16GB GDDR6 |
 | Ethernet | Intel® I225-V 2.5Gb |
 | OS Disk (NVME) | WD_BLACK SN850 NVMe™ SSD 1TB |
 
